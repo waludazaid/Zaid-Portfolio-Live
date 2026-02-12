@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { Tilt } from "react-tilt";
 import { Github } from "lucide-react";
 import herobg from "../assets/herobg.png";
-import wildlife from "../assets/wildlife.png"; // Aapki save ki hui photo
+import wildlife from "../assets/project1.png";
 
 const WorkPage = () => {
   return (
@@ -82,5 +82,6 @@ const WorkPage = () => {
     </div>
   );
 };
+
 
 export default WorkPage;
